@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>My Profile</title>
     <style>
        
         {
@@ -126,8 +126,10 @@
                     <li>Elementary- Singaran Elementary School</li>
 
 
-                </ul>
-            </section>
-    </div>
 </body>
 </html>
+
+
+
+
+
